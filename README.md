@@ -1,2 +1,3 @@
-# cars
-buy cars with sale
+# Кубик Рубика
+PLL и OLL алгоритмы
+
