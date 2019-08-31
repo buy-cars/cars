@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-xs-5 col1">
-    <mark>Кубик Рубика<mark>
+    <h1>Кубик Рубика<h1>
     <div class="col-xs-5 col2">
       <h1> oll  </h1>
       <h1> Pll  </h1>
