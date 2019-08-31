@@ -3,7 +3,7 @@
     <div class="col-xs-5 col1">
     <h1>Кубик Рубика<h1>
     <div class="col-xs-5 col2">
-      <h1> oll  </h1>
+      <button type="button" class="btn btn-primary">oll</button> 
       <h1> Pll  </h1>
     </div>
   </div>
