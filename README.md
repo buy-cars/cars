@@ -1,4 +1,7 @@
 # Куби Рубика
+<div class="container">
+  <div class="row">
+     <div
 * PLL алгоритмы
 * Oll алгоритмы
 
