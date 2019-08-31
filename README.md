@@ -1,3 +1,3 @@
 # Куби Рубика
 PLL и OLL алгоритмы
-<div color
+<div color 1>
