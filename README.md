@@ -5,9 +5,7 @@
     <div class="col-xs-5 col2">
       <button type="button" class="btn btn-primary">oll</button> 
       <button type="button" class="btn btn-primary">Pll</button>
-    </div>
-  </div>
- </div>
+      </div>
 
 
 
