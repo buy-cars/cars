@@ -1,8 +1,8 @@
-# Куби Рубика
+# Кубик Рубика
 <div class="container">
   <div class="row">
     <div class="col-xs-6 col1">
-      <h1>Колонка</h1>
+      <h1>Кубик Рубика</h1>
     </div>
     <div class="col-xs-6 col2">
       <h1>Колонка 2</h1>
